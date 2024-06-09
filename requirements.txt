@@ -3,3 +3,4 @@ altair
 folium 
 numpy
 matplotlib
+seaborn
